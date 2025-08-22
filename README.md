@@ -132,16 +132,16 @@ After setting up the database, you'll need to create a system administrator manu
 
 ## Features Implemented
 
-✅ User authentication and authorization
-✅ Role-based access control
-✅ Form validations (frontend and backend)
-✅ Search and filtering functionality
-✅ Sorting for all listings
-✅ Responsive design
-✅ Password change functionality
-✅ Star rating system
-✅ Dashboard statistics
-✅ Pagination for large datasets
+- User authentication and authorization
+- Role-based access control
+- Form validations (frontend and backend)
+- Search and filtering functionality
+- Sorting for all listings
+- Responsive design
+- Password change functionality
+- Star rating system
+- Dashboard statistics
+- Pagination for large datasets
 
 ## Security Features
 
